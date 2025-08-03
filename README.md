@@ -5,7 +5,7 @@ Real-time gesture recognition with webcam
 
 🚀 Usage
 
-1. Connect computer and Sphero on the same wifi
+1. Connect computer and Sphero on the same wifi. Configure Raspberry Pi IP address in gesture_sender.py
 
 2. Prepared the fine tuned YOLO model
 
